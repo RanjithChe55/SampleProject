@@ -1,2 +1,2 @@
-# SampleProject
-First Project
+# SQL Assignment
+Create Table
